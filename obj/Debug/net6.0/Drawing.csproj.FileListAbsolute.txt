@@ -1,0 +1,3 @@
+/home/nunu/test/Drawing/obj/Debug/net6.0/Drawing.csproj.AssemblyReference.cache
+/home/nunu/test/Drawing/obj/Debug/net6.0/Drawing_App.Form1.resources
+/home/nunu/test/Drawing/obj/Debug/net6.0/Drawing.csproj.GenerateResource.cache
