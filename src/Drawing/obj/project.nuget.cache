@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wxSFcd7rronLGqotZTlS9WkjYs4/Ld7ssjPFOJnlKSY2/IPPiQKdr1y/RlgqjcuC9zQf2X2lw3nVnJNCgCzqQ==",
+  "success": true,
+  "projectFilePath": "/home/nunu/test/Drawing/src/Drawing/Drawing.csproj",
+  "expectedPackageFiles": [
+    "/home/nunu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
